@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+fastapi
+uvicorn
+joblib
+pydantic
+rank-bm25
+sentence-transformers
+torch
+openai
+python-dotenv
+bcrypt
