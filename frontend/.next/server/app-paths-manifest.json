@@ -1,0 +1,8 @@
+{
+  "/chat/[conversation_id]/page": "app/chat/[conversation_id]/page.js",
+  "/page": "app/page.js",
+  "/consultant-dashboard/page": "app/consultant-dashboard/page.js",
+  "/ai-consultant/page": "app/ai-consultant/page.js",
+  "/consultant/clients/page": "app/consultant/clients/page.js",
+  "/consultant/chats/page": "app/consultant/chats/page.js"
+}
